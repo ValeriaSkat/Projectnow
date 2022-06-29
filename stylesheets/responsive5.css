@@ -196,14 +196,14 @@
     max-width: 100%;
   }
   .form-split {
-    margin: 218px 0px 0px 514px;
+    margin: 218px 0px 0px 522px;
   }
   .form-split input {
     width: 209px;
     height: 37px;
   }
   .form-split2 {
-    margin: 263px 0px 0px 740px;
+    margin: 218px 0px 0px 753px;
   }
   .form-split2 input {
     width: 209px;
@@ -212,19 +212,19 @@
 
   select {
     width: 452px;
-    margin: 335px 0px 0px 509px;
+    margin: 290px 0px 0px 522px;
   }
   #birth {
     width: 452px;
-    margin: 407px 0px 0px 509px;
+    margin: 362px 0px 0px 522px;
   }
   #mail {
     width: 452px;
-    margin: 479px 0px 0px 509px;
+    margin: 434px 0px 0px 522px;
   }
   button {
     width: 209px;
-    margin: 640px 0px 0px 614.4px;
+    margin: 595px 0px 0px 628.4px;
   }
 }
 @media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
@@ -272,20 +272,42 @@
   .m5:hover {
     max-width: 100%;
   }
-  h1{
-    font-size: 50px;
+  .text2{
+    margin: 118.5px 0px 0px 280.35px;
   }
-  .text1{
-    margin: 112.5px 0px 0px 291.75px;
+  .chlen img{
+    margin: -20px 0px 0px 39px;
   }
-  .minitext1 {
-    font-size: 17px;
-    margin: 253.37px 0px 0px 287.78px;
+  .form-split {
+    margin: 218px 0px 0px 283px;
   }
-  .historyp img{
-    width: 871px;
-    height: 442.2px;
-    margin: 169px 0px 0px 0px;
+  .form-split input {
+    width: 209px;
+    height: 37px;
+  }
+  .form-split2 {
+    margin: 218px 0px 0px 507px;
+  }
+  .form-split2 input {
+    width: 209px;
+    height: 37px;
+  }
+
+  select {
+    width: 452px;
+    margin: 290px 0px 0px 283px;
+  }
+  #birth {
+    width: 452px;
+    margin: 362px 0px 0px 283px;
+  }
+  #mail {
+    width: 452px;
+    margin: 434px 0px 0px 283px;
+  }
+  button {
+    width: 209px;
+    margin: 595px 0px 0px 400px;
   }
 }
 @media only screen and (min-device-width: 415px) and (max-device-width: 768px){
@@ -335,38 +357,47 @@
   .m5:hover {
     max-width: 100%;
   }
-  h1{
-    font-size: 67px;
+  .text2{
+    margin: 229.5px 0px 0px 152.25px;
   }
-  .text1{
-    margin: 156.77px 0px 0px 121.68px;
+  .chlen img{
+    width: 736px;
+    height: 410.79px;
+    margin: -20px 0px 0px 0px;
   }
-  .minitext1 {
-    font-size: 20px;
-    margin: 248.2px 0px 0px 118.92px;
+  .form-split {
+    margin: 372px 0px 0px 157px;
   }
-  .historyp img{
-    width: 732.44px;
-    height: 371.86px;
-    margin: 186.19px 0px 0px 0px;
+  .form-split input {
+    width: 209px;
+    height: 37px;
+  }
+  .form-split2 {
+    margin: 372px 0px 0px 391px;
+  }
+  .form-split2 input {
+    width: 209px;
+    height: 37px;
+  }
+
+  select {
+    width: 452px;
+    margin: 438px 0px 0px 157px;
+  }
+  #birth {
+    width: 452px;
+    margin: 495px 0px 0px 156px;
+  }
+  #mail {
+    width: 452px;
+    margin: 556px 0px 0px 156px;
+  }
+  button {
+    width: 209px;
+    margin: 629px 0px 0px 283px;
   }
 }
 @media only screen and (min-device-width: 361px) and (max-device-width: 414px) {
-  .minihistury img{
-    position: absolute;
-    z-index: -1;
-    width: 414px;
-    height: 372px;
-    margin: 602px 0px 0px 0px;
-  }
-  .minitext2 {
-    font-weight: 100;
-    font-size: 28px;
-    font-family: "CoFoSans-Regular", sans-serif;
-    position: absolute;
-    z-index: 1;
-    margin: 254.68px 0px 0px 15.42px;
-  }
   .menu__btn {
     top: 18px;
     right: 0px;
@@ -407,17 +438,42 @@
   .m5:hover {
     max-width: 100%;
   }
-  h1{
-    font-size: 67px;
+  .text2{
+    margin: 144.77px 0px 0px 20.83px;
   }
-  .text1{
-    margin: 144.47px 0px 0px 18.68px;
-  }
-  .minitext1 {
+  .chlen img{
     display: none;
   }
-  .historyp img{
-    display: none;
+  .form-split {
+    margin: 311px 0px 0px 15px;
+  }
+  .form-split input {
+    width: 180.98px;
+    height: 37px;
+  }
+  .form-split2 {
+    margin: 311px 0px 0px 215.03px;
+  }
+  .form-split2 input {
+    width: 180.98px;
+    height: 37px;
+  }
+
+  select {
+    width: 381px;
+    margin: 383px 0px 0px 15px;
+  }
+  #birth {
+    width: 381px;
+    margin: 455px 0px 0px 15px;
+  }
+  #mail {
+    width: 381px;
+    margin: 527px 0px 0px 15px;
+  }
+  button {
+    width: 209px;
+    margin: 688px 0px 0px 114.06px;
   }
 }
 @media only screen and (max-device-width: 360px){
