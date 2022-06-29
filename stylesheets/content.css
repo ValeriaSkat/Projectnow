@@ -157,7 +157,7 @@ body {
 }
 .logo img{
   position: absolute;
-  z-index: -99;
+  z-index: 100;
   width: 128px;
   height: 43px;
   margin: 17px 0px 0px 30px;/*верхнего, правого, нижнего и левого края.*/
