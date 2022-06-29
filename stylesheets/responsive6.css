@@ -174,3 +174,53 @@
     margin: 885.5px 0px 0px 34.35px;
   }
 }
+@media only screen and (min-device-width: 415px) and (max-device-width: 768px){
+  .pictu1 img{
+    margin: 96px 0px 0px 30px;
+    width: 676px;
+    height: 323.19px;
+  }
+  .pictu2 img{
+    margin: 487px 0px 0px 30px;
+    width: 676px;
+    height: 322px;
+  }
+  .pictu3 img{
+    margin: 1654px 0px 0px 30px;
+    width: 676px;
+    height: 322px;
+  }
+  .pictu4 img{
+    margin: 876px 0px 0px 30px;
+    width: 676px;
+    height: 322px;
+  }
+  .pictu5 img{
+    margin: 1265px 0px 0px 30px;
+    width: 676px;
+    height: 322px;
+  }
+  .pictu6 img{
+    margin: 1789px 0px 0px 0px;
+    width: 736px;
+    height: 374.46px;
+  }
+  .text3{
+    margin: 426px 0px 0px 31.35px;
+  }
+  .text4{
+    margin: 814px 0px 0px 29.35px;
+  }
+  .text5{
+    margin: 1975.7px 0px 0px 30.5px;
+  }
+  .text6{
+    margin: 1207px 0px 0px 31.5px;
+  }
+  .text7{
+    margin: 1584px 0px 0px 34.35px;
+  }
+}
+@media only screen and (min-device-width: 361px) and (max-device-width: 414px) {
+  
+}
