@@ -3354,14 +3354,66 @@ background-color: #F1CA61; /* цвет плашки */
 border-radius: 0px; /* закругления плашки */
 }
 
-
-
-
-
-
-
-
-
+.pictu1 {
+    cursor: pointer;
+    position: absolute;
+    z-index: 2;
+    margin: 144px 0px 0px 30px;/*верхнего, правого, нижнего и левого края.*/
+}
+.pictu2 {
+    cursor: pointer;
+    position: absolute;
+    z-index: 2;
+    margin: 144px 0px 0px 975px;/*верхнего, правого, нижнего и левого края.*/
+}
+.pictu3 {
+    cursor: pointer;
+    position: absolute;
+    z-index: 2;
+    margin: 693px 0px 0px 30px;/*верхнего, правого, нижнего и левого края.*/
+}
+.pictu4 {
+    cursor: pointer;
+    position: absolute;
+    z-index: 2;
+    margin: 695px 0px 0px 975px;/*верхнего, правого, нижнего и левого края.*/
+}
+.pictu5 {
+    cursor: pointer;
+    position: absolute;
+    z-index: 2;
+    margin: 1247px 0px 0px 30px;/*верхнего, правого, нижнего и левого края.*/
+}
+.pictu6 {
+    position: absolute;
+    z-index: -1;
+    margin: 1109px 0px 0px 636px;/*верхнего, правого, нижнего и левого края.*/
+}
+.text3{
+  position: absolute;
+  z-index: 1;
+  margin: 585.8px 0px 0px 35.66px;
+}
+.text4{
+  position: absolute;
+  z-index: 1;
+  margin: 585.15px 0px 0px 980.66px;
+}
+.text5{
+  position: absolute;
+  z-index: 1;
+  margin: 1124.71px 0px 0px 30.65px;
+}
+.text6{
+  position: absolute;
+  z-index: 1;
+  margin: 1136.8px 0px 0px 976.95px;
+}
+.text7{
+  position: absolute;
+  z-index: 1;
+  margin: 1688.15px 0px 0px 35.66px;
+}
 
 /*.fut1 {
   position: absolute;
