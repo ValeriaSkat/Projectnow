@@ -1,0 +1,764 @@
+@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+  .t31 {
+    display: none;
+  }
+  .t30 {
+    display: none;
+  }
+  .t29 {
+    display: none;
+  }
+  .menu__btn {
+    top: 35px;
+    right: 0px;
+    left: 945px;
+  }
+  .menu__box {
+    max-width: 100%;
+  }
+  .menu__item {
+    max-width: 100%;
+  }
+  .m1 {
+      max-width: 100%;
+  }
+  .m2 {
+      max-width: 100%;
+  }
+  .m2:hover {
+      max-width: 100%;
+  }
+  .m3 {
+      max-width: 100%;
+  }
+  .m3:hover {
+    max-width: 100%;
+  }
+  .m4 {
+    max-width: 100%;
+  }
+  .m4:hover {
+  max-width: 100%;
+  }
+  .m5 {
+    max-width: 100%;
+  }
+  .m5:hover {
+    max-width: 100%;
+  }
+  .background img{
+    max-width: 100%;
+  }
+  .background2 img{
+    max-width: 100%;
+  }
+  .logo img{
+    width: 69px;
+    height: 23.18px;
+    margin: 18px 0px 0px 30px;
+  }
+  .footerlogo img{
+    margin: 712px 0px 0px 153px;
+    width: 42px;
+    height: 17px;
+  }
+  .footer {
+    font-size: 9px;
+    margin: 712px 0px 0px 30px;
+  }
+  p {
+    font-size: 44px;
+  }
+  .t1 {
+    margin: 112px 0px 0px 32px;
+  }
+  .t2 {
+    margin: 112px 0px 0px 283px;
+  }
+  .t3 {
+    margin: 112px 0px 0px 811px;
+  }
+  .t4 {
+    margin: 146px 0px 0px 32px;
+  }
+  .t5 {
+    margin: 146px 0px 0px 456px;
+  }
+  .t6 {
+    margin: 180px 0px 0px 32px;
+  }
+  .t7 {
+    margin: 180px 0px 0px 350px;
+  }
+  .t8 {
+    margin: 180px 0px 0px 581px;
+  }
+  .t9 {
+    margin: 214px 0px 0px 32px;
+  }
+  .t10 {
+    margin: 214px 0px 0px 480px;
+  }
+  .t11 {
+    margin: 248px 0px 0px 32px;
+  }
+  .t12 {
+    margin: 248px 0px 0px 663px;
+  }
+  .t13 {
+    margin: 282px 0px 0px 32px;
+  }
+  .t14 {
+    margin: 282px 0px 0px 615px;
+  }
+  .t15 {
+    margin: 316px 0px 0px 32px;
+  }
+  .t16 {
+    margin: 316px 0px 0px 389px;
+  }
+  .t17 {
+    margin: 316px 0px 0px 683px;
+  }
+  .t18 {
+    margin: 350px 0px 0px 32px;
+  }
+  .t19 {
+    margin: 350px 0px 0px 571px;
+  }
+  .t20 {
+    margin: 384px 0px 0px 32px;
+  }
+  .t21 {
+    margin: 384px 0px 0px 236px;
+  }
+  .t22 {
+    margin: 384px 0px 0px 532px;
+  }
+  .t23 {
+    margin: 418px 0px 0px 32px;
+  }
+  .t24 {
+    margin: 418px 0px 0px 684px;
+  }
+  .t25 {
+    margin: 452px 0px 0px 32px;
+  }
+  .t26 {
+    margin: 452px 0px 0px 447px;
+  }
+  .t27 {
+    margin: 486px 0px 0px 32px;
+  }
+  .t28 {
+    margin: 520px 0px 0px 32px;
+  }
+  .edin {
+    display: none;
+  }
+  .fone {
+    display: none;
+  }
+  .ftwo {
+    display: none;
+  }
+  .fthree {
+    display: none;
+  }
+  .ffour {
+    display: none;
+  }
+  .ffone {
+    display: none;
+  }
+  .fftwo {
+    display: none;
+  }
+  .ffthree {
+    display: none;
+  }
+  .fffour {
+    display: none;
+  }
+
+  .fffone {
+    z-index: 2;
+    position: absolute;
+    margin: 66px 0px 0px 22px;
+    animation-name: ffone;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    transition-timing-function: linear;
+  }
+  @keyframes ffone {
+    0% {
+      transform: translate(0,0);
+    }
+    100% {
+      transform: translate(400px,0);
+    }
+  }
+  .ffftwo {
+    z-index: 2;
+    position: absolute;
+    margin: 66px 0px 0px 440px;
+    animation-name: fftwo;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    transition-timing-function: linear;
+  }
+  @keyframes fftwo {
+    0% {
+      transform: translate(0,0);
+    }
+    100% {
+      transform: translate(-400px,0);
+    }
+  }
+  .fffthree {
+    z-index: 2;
+    position: absolute;
+    margin: 396px 0px 0px 22px;
+    animation-name: ffthree;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    transition-timing-function: linear;
+  }
+  @keyframes ffthree {
+    0% {
+      transform: translate(0,0);
+    }
+    100% {
+      transform: translate(400px,0);
+    }
+  }
+  .ffffour {
+    z-index: 2;
+    position: absolute;
+    margin: 396px 0px 0px 484px;
+    animation-name: fffour;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    transition-timing-function: linear;
+  }
+  @keyframes fffour {
+    0% {
+      transform: translate(0,0);
+    }
+    100% {
+      transform: translate(-400px,0);
+    }
+  }
+  .minione {
+    display: none;
+  }
+  .minitwo {
+    display: none;
+  }
+  .minithree {
+    display: none;
+  }
+  .minifour {
+    display: none;
+  }
+  .fminione {
+    display: none;
+  }
+  .fminitwo {
+    display: none;
+  }
+  .ffminione {
+    display: none;
+  }
+  .ffminitwo {
+    display: none;
+  }
+}
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1366px) {
+  .t31 {
+    display: none;
+  }
+  .t30 {
+    display: none;
+  }
+  .t29 {
+    display: none;
+  }
+  .menu__btn {
+    top: 29px;
+    right: 0px;
+    left: 1310px;
+  }
+  .menu__box {
+    max-width: 100%;
+  }
+  .menu__item {
+    max-width: 100%;
+  }
+  .m1 {
+      max-width: 100%;
+  }
+  .m2 {
+      max-width: 100%;
+  }
+  .m2:hover {
+      max-width: 100%;
+  }
+  .m3 {
+      max-width: 100%;
+  }
+  .m3:hover {
+    max-width: 100%;
+  }
+  .m4 {
+    max-width: 100%;
+  }
+  .m4:hover {
+  max-width: 100%;
+  }
+  .m5 {
+    max-width: 100%;
+  }
+  .m5:hover {
+    max-width: 100%;
+  }
+  .background img{
+    max-width: 100%;
+  }
+  .background2 img{
+    max-width: 100%;
+  }
+  .logo img{
+    width: 81px;
+    height: 27.21px;
+    margin: 15px 0px 0px 30px;
+  }
+  .footerlogo img{
+    margin: 712px 0px 0px 128.92px;
+    width: 58.09px;
+    height: 23.99px;
+  }
+  .footer {
+    font-size: 13px;
+    margin: 712.66px 0px 0px 30px;
+  }
+  p {
+    font-size: 59px;
+  }
+  .t1 {
+    margin: 93px 0px 0px 30px;
+  }
+  .t2 {
+    margin: 93px 0px 0px 369px;
+  }
+  .t3 {
+    margin: 93px 0px 0px 1078px;
+  }
+  .t4 {
+    margin: 138px 0px 0px 30px;
+  }
+  .t5 {
+    margin: 138px 0px 0px 602px;
+  }
+  .t6 {
+    margin: 183px 0px 0px 30px;
+  }
+  .t7 {
+    margin: 183px 0px 0px 459px;
+  }
+  .t8 {
+    margin: 183px 0px 0px 769px;
+  }
+  .t9 {
+    margin: 228px 0px 0px 30px;
+  }
+  .t10 {
+    margin: 228px 0px 0px 633px;
+  }
+  .t11 {
+    margin: 273px 0px 0px 30px;
+  }
+  .t12 {
+    margin: 273px 0px 0px 879px;
+  }
+  .t13 {
+    margin: 318px 0px 0px 30px;
+  }
+  .t14 {
+    margin: 318px 0px 0px 815px;
+  }
+  .t15 {
+    margin: 363px 0px 0px 30px;
+  }
+  .t16 {
+    margin: 363px 0px 0px 510px;
+  }
+  .t17 {
+    margin: 363px 0px 0px 904px;
+  }
+  .t18 {
+    margin: 408px 0px 0px 30px;
+  }
+  .t19 {
+    margin: 408px 0px 0px 755px;
+  }
+  .t20 {
+    margin: 453px 0px 0px 35px;
+  }
+  .t21 {
+    margin: 453px 0px 0px 307px;
+  }
+  .t22 {
+    margin: 453px 0px 0px 703px;
+  }
+  .t23 {
+    margin: 498px 0px 0px 35px;
+  }
+  .t24 {
+    margin: 498px 0px 0px 907px;
+  }
+  .t25 {
+    margin: 543px 0px 0px 35px;
+  }
+  .t26 {
+    margin: 543px 0px 0px 590px;
+  }
+  .t27 {
+    margin: 588px 0px 0px 35px;
+  }
+  .t28 {
+    margin: 633px 0px 0px 35px;
+  }
+  .edin {
+    display: none;
+  }
+  .fone {
+    display: none;
+  }
+  .ftwo {
+    display: none;
+  }
+  .fthree {
+    display: none;
+  }
+  .ffour {
+    display: none;
+  }
+  .ffone {
+    z-index: 2;
+    position: absolute;
+    margin: 88px 0px 0px 22px;
+    animation-name: fone;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    transition-timing-function: linear;
+  }
+  @keyframes fone {
+    0% {
+      transform: translate(0,0);
+    }
+    100% {
+      transform: translate(500px,0);
+    }
+  }
+  .fftwo {
+    z-index: 2;
+    position: absolute;
+    margin: 88px 0px 0px 572px;
+    animation-name: ftwo;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    transition-timing-function: linear;
+  }
+  @keyframes ftwo {
+    0% {
+      transform: translate(0,0);
+    }
+    100% {
+      transform: translate(-500px,0);
+    }
+  }
+  .ffthree {
+    z-index: 2;
+    position: absolute;
+    margin: 484px 0px 0px 44px;
+    animation-name: fthree;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    transition-timing-function: linear;
+  }
+  @keyframes fthree {
+    0% {
+      transform: translate(0,0);
+    }
+    100% {
+      transform: translate(500px,0);
+    }
+  }
+  .fffour {
+    z-index: 2;
+    position: absolute;
+    margin: 462px 0px 0px 638px;
+    animation-name: ffour;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    transition-timing-function: linear;
+  }
+  @keyframes ffour {
+    0% {
+      transform: translate(0,0);
+    }
+    100% {
+      transform: translate(-500px,0);
+    }
+  }
+  .fffone {
+    display: none;
+  }
+  .ffftwo {
+    display: none;
+  }
+  .fffthree {
+    display: none;
+  }
+  .ffffour {
+    display: none;
+  }
+  .minione {
+    display: none;
+  }
+  .minitwo {
+    display: none;
+  }
+  .minithree {
+    display: none;
+  }
+  .minifour {
+    display: none;
+  }
+  .fminione {
+    display: none;
+  }
+  .fminitwo {
+    display: none;
+  }
+  .ffminione {
+    display: none;
+  }
+  .ffminitwo {
+    display: none;
+  }
+}
+@media only screen and (min-device-width: 415px) and (max-device-width: 768px){
+  .t31 {
+    display: none;
+  }
+  .t30 {
+    display: none;
+  }
+  .t29 {
+    position: absolute;
+    z-index: 1;
+    margin: 88.83px 0px 0px 30.41px;
+    font-weight: 100;
+    font-size: 51px;
+    font-family: "CoFoSans-Regular", sans-serif;
+    line-height: 76.8%;
+  }
+  .edintwo {
+    display: none;
+  }
+  .menu__btn {
+    top: 29px;
+    right: 0px;
+    left: 639px;
+    width: 48px;
+    height: 48px;
+  }
+  .menu__box {
+    width: 387px;
+    top: -14px;
+  }
+  .menu__item {
+    font-size: 51px;
+    padding: 15px 30px;
+  }
+  .m1 {
+      max-width: 100%;
+  }
+  .m2 {
+      max-width: 100%;
+  }
+  .m2:hover {
+      max-width: 100%;
+  }
+  .m3 {
+      max-width: 100%;
+  }
+  .m3:hover {
+    max-width: 100%;
+  }
+  .m4 {
+    max-width: 100%;
+  }
+  .m4:hover {
+  max-width: 100%;
+  }
+  .m5 {
+    max-width: 100%;
+  }
+  .m5:hover {
+    max-width: 100%;
+  }
+  .background img{
+    max-width: 100%;
+  }
+  .background2 img{
+    max-width: 100%;
+  }
+  .logo img{
+    width: 154px;
+    height: 51.73px;
+    margin: 12.63px 0px 0px 30px;
+  }
+  .footerlogo img{
+    margin: 1054px 0px 0px 186.67px;
+    max-width: 100%;
+  }
+  .footer {
+    max-width: 100%;
+    margin: 1054px 0px 0px 30px;
+  }
+  .edin {
+    display: none;
+  }
+  .fone {
+    display: none;
+  }
+  .ftwo {
+    display: none;
+  }
+  .fthree {
+    display: none;
+  }
+  .ffour {
+    display: none;
+  }
+  .ffone {
+    display: none;
+  }
+  .fftwo {
+    display: none;
+  }
+  .ffthree {
+    display: none;
+  }
+  .fffour {
+    display: none;
+  }
+  .fffone {
+    display: none;
+  }
+  .ffftwo {
+    display: none;
+  }
+  .fffthree {
+    display: none;
+  }
+  .ffffour {
+    display: none;
+  }
+
+  .minione {
+    z-index: 2;
+    position: absolute;
+    margin: 104px 0px 0px 16px;
+    animation-name: minione;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    transition-timing-function: linear;
+  }
+  @keyframes minione {
+    0% {
+      transform: translate(0,0);
+    }
+    100% {
+      transform: translate(200px,0);
+    }
+  }
+  .minitwo {
+    z-index: 2;
+    position: absolute;
+    margin: 104px 0px 0px 368px;
+    animation-name: minitwo;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    transition-timing-function: linear;
+  }
+  @keyframes minitwo {
+    0% {
+      transform: translate(0,0);
+    }
+    100% {
+      transform: translate(-200px,0);
+    }
+  }
+  .minithree {
+    z-index: 2;
+    position: absolute;
+    margin: 500px 0px 0px 16px;
+    animation-name: minithree;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    transition-timing-function: linear;
+  }
+  @keyframes minithree {
+    0% {
+      transform: translate(0,0);
+    }
+    100% {
+      transform: translate(200px,0);
+    }
+  }
+  .minifour {
+    z-index: 2;
+    position: absolute;
+    margin: 500px 0px 0px 346px;
+    animation-name: minifour;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    transition-timing-function: linear;
+  }
+  @keyframes minifour {
+    0% {
+      transform: translate(0,0);
+    }
+    100% {
+      transform: translate(-200px,0);
+    }
+  }
+  .fminione {
+    display: none;
+  }
+  .fminitwo {
+    display: none;
+  }
+  .ffminione {
+    display: none;
+  }
+  .ffminitwo {
+    display: none;
+  }
+}
