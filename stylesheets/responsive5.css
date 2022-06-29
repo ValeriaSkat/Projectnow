@@ -472,7 +472,7 @@
     margin: 527px 0px 0px 15px;
   }
   button {
-    width: 209px;
+    width: 180.98px;
     margin: 688px 0px 0px 114.06px;
   }
 }
@@ -532,16 +532,41 @@
   .m5:hover {
     max-width: 100%;
   }
-  h1{
-    font-size: 58px;
+  .text2{
+    margin: 123.98px 0px 0px 16.05px;
   }
-  .text1{
-    margin: 123.98px 0px 0px 20.05px;
-  }
-  .minitext1 {
+  .chlen img{
     display: none;
   }
-  .historyp img{
-    display: none;
+  .form-split {
+    margin: 279px 0px 0px 15px;
+  }
+  .form-split input {
+    width: 156.75px;
+    height: 37px;
+  }
+  .form-split2 {
+    margin: 279px 0px 0px 188.25px;
+  }
+  .form-split2 input {
+    width: 156.75px;
+    height: 37px;
+  }
+
+  select {
+    width: 381px;
+    margin: 383px 0px 0px 15px;
+  }
+  #birth {
+    width: 381px;
+    margin: 455px 0px 0px 15px;
+  }
+  #mail {
+    width: 381px;
+    margin: 527px 0px 0px 15px;
+  }
+  button {
+    width: 180.98px;
+    margin: 688px 0px 0px 114.06px;
   }
 }
