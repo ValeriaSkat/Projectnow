@@ -3246,8 +3246,43 @@ h1 {
   z-index: 1;
   margin: 145.15px 0px 0px 666.66px;
 }
-
-
+.chlen img{
+  position: absolute;
+  z-index: -2;
+  margin: -20px 0px 0px 352px;/*верхнего, правого, нижнего и левого края.*/
+}
+.form-split {
+   border: 1px solid black;
+  margin: 289px 0px 0px 661px;
+  position: absolute;
+}
+.form-split input {
+  color: black;
+  font-weight: 100;
+  font-size: 17px;
+  font-family: "CoFoSans-Regular", sans-serif;
+  text-align: center;
+  display: inline-block;
+  width: 285px;
+  height: 37px;
+  margin: 0;
+}
+.form-split2 {
+  border: 1px  solid black;
+  margin: 289px 0px 0px 976px;
+  position: absolute;
+}
+.form-split2 input {
+  color: black;
+  font-weight: 100;
+  font-size: 17px;
+  font-family: "CoFoSans-Regular", sans-serif;
+  text-align: center;
+  display: inline-block;
+  width: 285px;
+  height: 37px;
+  margin: 0;
+}
 
 
 
