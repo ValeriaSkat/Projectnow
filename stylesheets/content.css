@@ -3343,7 +3343,16 @@ button {
   text-align: center;
   text-transform: uppercase;
 }
-
+body::-webkit-scrollbar {
+width: 12px; /* ширина scrollbar */
+}
+body::-webkit-scrollbar-track {
+background: wight; /* цвет дорожки */
+}
+body::-webkit-scrollbar-thumb {
+background-color: #8FFF00; /* цвет плашки */
+border-radius: 0px; /* закругления плашки */
+}
 
 
 
