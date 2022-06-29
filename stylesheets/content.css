@@ -3218,10 +3218,29 @@ p {
 
 /*idex2*/
 
-.text1 {
-  
+h1 {
+  font-weight: 100;
+  font-size: 65px;
+  font-family: "CoFoSans-Regular", sans-serif;
 }
-
+.text1{
+  position: absolute;
+  z-index: 1;
+  margin: 152.15px 0px 0px 666.66px;
+}
+.minitext1 {
+  font-weight: 100;
+  font-size: 17px;
+  font-family: "CoFoSans-Regular", sans-serif;
+  position: absolute;
+  z-index: 1;
+  margin: 291px 0px 0px 660px;
+}
+.historyp img{
+  margin: 154px 0px 0px 0px;
+  width: 1430px;
+  height: 726px;
+}
 
 
 
