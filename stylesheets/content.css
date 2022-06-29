@@ -3350,7 +3350,7 @@ body::-webkit-scrollbar-track {
 background: wight; /* цвет дорожки */
 }
 body::-webkit-scrollbar-thumb {
-background-color: #8FFF00; /* цвет плашки */
+background-color: #F1CA61; /* цвет плашки */
 border-radius: 0px; /* закругления плашки */
 }
 

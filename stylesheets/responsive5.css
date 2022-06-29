@@ -570,6 +570,9 @@
     margin: 656px 0px 0px 100.8px;
   }
 }
+
+
+
 @media only screen and (min-device-width: 1441px) and (max-device-width: 1920px) {
   .error1 img{
     max-width: 100%;
@@ -614,5 +617,120 @@
   }
   .error7 img{
     display: none;
+  }
+}
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1366px) {
+  .error1 img{
+    display: none;
+  }
+  .error2 img{
+    display: none;
+  }
+  .error3 img{
+    max-width: 100%;
+  }
+  .error4 img{
+    display: none;
+  }
+  .error5 img{
+    display: none;
+  }
+  .error6 img{
+    display: none;
+  }
+  .error7 img{
+    display: none;
+  }
+}
+@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+  .error1 img{
+    display: none;
+  }
+  .error2 img{
+    display: none;
+  }
+  .error3 img{
+    display: none;
+  }
+  .error4 img{
+    max-width: 100%;
+  }
+  .error5 img{
+    display: none;
+  }
+  .error6 img{
+    display: none;
+  }
+  .error7 img{
+    display: none;
+  }
+}
+@media only screen and (min-device-width: 415px) and (max-device-width: 768px){
+  .error1 img{
+    display: none;
+  }
+  .error2 img{
+    display: none;
+  }
+  .error3 img{
+    display: none;
+  }
+  .error4 img{
+    display: none;
+  }
+  .error5 img{
+    max-width: 100%;
+  }
+  .error6 img{
+    display: none;
+  }
+  .error7 img{
+    display: none;
+  }
+}
+@media only screen and (min-device-width: 361px) and (max-device-width: 414px) {
+  .error1 img{
+    display: none;
+  }
+  .error2 img{
+    display: none;
+  }
+  .error3 img{
+    display: none;
+  }
+  .error4 img{
+    display: none;
+  }
+  .error5 img{
+    display: none;
+  }
+  .error6 img{
+    max-width: 100%;
+  }
+  .error7 img{
+    display: none;
+  }
+}
+@media only screen and (max-device-width: 360px){
+  .error1 img{
+    display: none;
+  }
+  .error2 img{
+    display: none;
+  }
+  .error3 img{
+    display: none;
+  }
+  .error4 img{
+    display: none;
+  }
+  .error5 img{
+    display: none;
+  }
+  .error6 img{
+    display: none;
+  }
+  .error7 img{
+    max-width: 100%;
   }
 }
