@@ -3241,7 +3241,11 @@ h1 {
   width: 1430px;
   height: 726px;
 }
-
+.text2{
+  position: absolute;
+  z-index: 1;
+  margin: 145.15px 0px 0px 666.66px;
+}
 
 
 
