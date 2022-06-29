@@ -25,6 +25,7 @@ body {
 }
 
 .menu__btn {
+  cursor: pointer;
   display: flex;
   align-items: center;
   position: fixed;
@@ -156,6 +157,7 @@ body {
   height: 1080px;
 }
 .logo img{
+  cursor: pointer;
   position: absolute;
   z-index: 100;
   width: 128px;
@@ -3284,10 +3286,64 @@ h1 {
   margin: 0;
 }
 
+select {
+  color: black;
+  font-weight: 100;
+  font-size: 17px;
+  font-family: "CoFoSans-Regular", sans-serif;
+  width: 612px;
+  position: absolute;
+  margin: 352px 0px 0px 660px;
+  height: 41px;
+  font-size: 17px;
+  border: 1px solid black;
+  text-align: center;
+}
+#birth {
+  color: black;
+  font-weight: 100;
+  font-size: 17px;
+  font-family: "CoFoSans-Regular", sans-serif;
+  width: 606px;
+  position: absolute;
+  margin: 433px 0px 0px 660px;
+  height: 41px;
+  font-size: 17px;
+  border: 1px solid black;
+  text-align: center;
+  text-transform: uppercase;
+}
+#mail {
+  color: black;
+  font-weight: 100;
+  font-size: 17px;
+  font-family: "CoFoSans-Regular", sans-serif;
+  width: 606px;
+  position: absolute;
+  margin: 505px 0px 0px 660px;
+  height: 41px;
+  font-size: 17px;
+  border: 1px solid black;
+  text-align: center;
+  text-transform: uppercase;
+}
+button {
+  cursor: pointer;
+  background-color: wight;
+  color: black;
+  font-weight: 100;
+  font-size: 17px;
+  font-family: "CoFoSans-Regular", sans-serif;
+  width: 285px;
+  position: absolute;
+  margin: 666px 0px 0px 817px;
+  height: 41px;
+  font-size: 17px;
+  border: 1px solid black;
+  text-align: center;
+  text-transform: uppercase;
 
-
-
-
+}
 
 
 
