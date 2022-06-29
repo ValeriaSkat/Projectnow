@@ -554,19 +554,19 @@
   }
 
   select {
-    width: 381px;
-    margin: 383px 0px 0px 15px;
+    width: 330px;
+    margin: 351px 0px 0px 15px;
   }
   #birth {
-    width: 381px;
-    margin: 455px 0px 0px 15px;
+    width: 330px;
+    margin: 432px 0px 0px 15px;
   }
   #mail {
-    width: 381px;
-    margin: 527px 0px 0px 15px;
+    width: 330px;
+    margin: 495px 0px 0px 15px;
   }
   button {
-    width: 180.98px;
-    margin: 688px 0px 0px 114.06px;
+    width: 156.75px;
+    margin: 656px 0px 0px 100.8px;
   }
 }
