@@ -222,5 +222,52 @@
   }
 }
 @media only screen and (min-device-width: 361px) and (max-device-width: 414px) {
-  
+  h1 {
+    font-size: 33px;
+  }
+  .pictu1 img{
+    margin: 96px 0px 0px 15px;
+    width: 384px;
+    height: 183.59px;
+  }
+  .pictu2 img{
+    margin: 318px 0px 0px 15px;
+    width: 384px;
+    height: 183px;
+  }
+  .pictu3 img{
+    margin: 982px 0px 0px 15px;
+    width: 384px;
+    height: 183px;
+  }
+  .pictu4 img{
+    margin: 540px 0px 0px 15px;
+    width: 384px;
+    height: 183px;
+  }
+  .pictu5 img{
+    margin: 761px 0px 0px 15px;
+    width: 384px;
+    height: 183px;
+  }
+  .pictu6 img{
+    margin: 1085px 0px 0px 0px;
+    width: 414px;
+    height: 210.63px;
+  }
+  .text3{
+    margin: 282.56px 0px 0px 15.87px;
+  }
+  .text4{
+    margin: 505.23px 0px 0px 13.87px;
+  }
+  .text5{
+    margin: 1167.42px 0px 0px 16.33px;
+  }
+  .text6{
+    margin: 731.56px 0px 0px 16.99px;
+  }
+  .text7{
+    margin: 943.23px 0px 0px 18.87px;
+  }
 }
