@@ -1,4 +1,7 @@
 @media only screen and (min-device-width: 1441px) and (max-device-width: 1920px) {
+  .minihistury img{
+    display: none;
+  }
   .menu__btn {
     max-width: 100%;
   }
@@ -49,6 +52,9 @@
   }
 }
 @media only screen and (min-device-width: 1367px) and (max-device-width: 1440px) {
+  .minihistury img{
+    display: none;
+  }
   .menu__btn {
     top: 29px;
     right: 0px;
@@ -102,6 +108,9 @@
   }
 }
 @media only screen and (min-device-width: 1025px) and (max-device-width: 1366px) {
+  .minihistury img{
+    display: none;
+  }
   .menu__btn {
     top: 34px;
     right: 0px;
@@ -157,6 +166,9 @@
   }
 }
 @media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+  .minihistury img{
+    display: none;
+  }
   .menu__btn {
     top: 32px;
     right: 0px;
@@ -212,6 +224,9 @@
   }
 }
 @media only screen and (min-device-width: 415px) and (max-device-width: 768px){
+  .minihistury img{
+    display: none;
+  }
   .menu__btn {
     top: 20px;
     right: 0px;
@@ -269,6 +284,9 @@
   }
 }
 @media only screen and (min-device-width: 361px) and (max-device-width: 414px) {
+  .minihistury img{
+    display: none;
+  }
   .menu__btn {
     top: 20px;
     right: 0px;
