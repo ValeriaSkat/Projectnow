@@ -3354,37 +3354,39 @@ background-color: #F1CA61; /* цвет плашки */
 border-radius: 0px; /* закругления плашки */
 }
 
-.pictu1 {
+
+
+.pictu1 img{
     cursor: pointer;
     position: absolute;
     z-index: 2;
     margin: 144px 0px 0px 30px;/*верхнего, правого, нижнего и левого края.*/
 }
-.pictu2 {
+.pictu2 img{
     cursor: pointer;
     position: absolute;
     z-index: 2;
     margin: 144px 0px 0px 975px;/*верхнего, правого, нижнего и левого края.*/
 }
-.pictu3 {
+.pictu3 img{
     cursor: pointer;
     position: absolute;
     z-index: 2;
     margin: 693px 0px 0px 30px;/*верхнего, правого, нижнего и левого края.*/
 }
-.pictu4 {
+.pictu4 img{
     cursor: pointer;
     position: absolute;
     z-index: 2;
     margin: 695px 0px 0px 975px;/*верхнего, правого, нижнего и левого края.*/
 }
-.pictu5 {
+.pictu5 img{
     cursor: pointer;
     position: absolute;
     z-index: 2;
     margin: 1247px 0px 0px 30px;/*верхнего, правого, нижнего и левого края.*/
 }
-.pictu6 {
+.pictu6 img{
     position: absolute;
     z-index: -1;
     margin: 1109px 0px 0px 636px;/*верхнего, правого, нижнего и левого края.*/
