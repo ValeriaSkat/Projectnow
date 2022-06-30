@@ -3712,6 +3712,10 @@ border-radius: 0px; /* закругления плашки */
   font-size: 17px;
   font-family: "CoFoSans-Regular", sans-serif;
 }
+.alexis {
+  position: absolute;
+  margin: 875px 0px 0px 1606px;
+}
 /*.fut1 {
   position: absolute;
   z-index: 11;
