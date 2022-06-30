@@ -271,3 +271,56 @@
     margin: 943.23px 0px 0px 18.87px;
   }
 }
+@media only screen and (max-device-width: 360px){
+  h1 {
+    font-size: 33px;
+  }
+  .pictu1 img{
+    margin: 107px 0px 0px 16px;
+    width: 326px;
+    height: 155.86px;
+  }
+  .pictu2 img{
+    margin: 295.13px 0px 0px 16px;
+    width: 326px;
+    height: 155px;
+  }
+  .pictu3 img{
+    margin: 859.13px 0px 0px 16px;
+    width: 326px;
+    height: 155px;
+  }
+  .pictu4 img{
+    margin: 484.13px 0px 0px 16px;
+    width: 326px;
+    height: 155px;
+  }
+  .pictu5 img{
+    margin: 672.13px 0px 0px 16px;
+    width: 326px;
+    height: 155px;
+  }
+  .pictu6 img{
+    display: none;
+  }
+  .text3{
+    z-index: 4;
+    margin: 262.56px 0px 0px 15.87px;
+  }
+  .text4{
+    z-index: 4;
+    margin: 451.5px 0px 0px 14.87px;
+  }
+  .text5{
+    z-index: 4;
+    margin: 1016.42px 0px 0px 15.33px;
+  }
+  .text6{
+    z-index: 4;
+    margin: 642.56px 0px 0px 12.99px;
+  }
+  .text7{
+    z-index: 4;
+    margin: 816.23px 0px 0px 14.87px;
+  }
+}

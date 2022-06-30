@@ -3417,6 +3417,301 @@ border-radius: 0px; /* закругления плашки */
   margin: 1688.15px 0px 0px 35.66px;
 }
 
+
+
+.pictu7 img{
+  position: absolute;
+  z-index: -1;
+  margin: 145px 0px 0px 30px;
+}
+.pictu8 img{
+  position: absolute;
+  z-index: -1;
+  margin: 145px 0px 0px 501px;
+}
+.pictu9 img{
+  position: absolute;
+  z-index: -1;
+  margin: 145px 0px 0px 975px;
+}
+.pictu10 img{
+  position: absolute;
+  z-index: -1;
+  margin: 145px 0px 0px 1448px;
+}
+.pictu11 img{
+  position: absolute;
+  z-index: -1;
+  margin: 1058px 0px 0px 30px;
+}
+.pictu12 img{
+  position: absolute;
+  z-index: -1;
+  margin: 1058px 0px 0px 501px;
+}
+.pictu13 img{
+  position: absolute;
+  z-index: -1;
+  margin: 1058px 0px 0px 975px;
+}
+.pictu14 img{
+  position: absolute;
+  z-index: -1;
+  margin: 1058px 0px 0px 1448px;
+}
+
+.text8{
+  position: absolute;
+  z-index: 1;
+  margin: 800.95px 0px 0px 30.45px;
+  font-weight: 100;
+  font-size: 45px;
+  font-family: "CoFoSans-Regular", sans-serif;
+}
+.text9{
+  position: absolute;
+  z-index: 1;
+  margin: 800.95px 0px 0px 508.92px;
+  font-weight: 100;
+  font-size: 45px;
+  font-family: "CoFoSans-Regular", sans-serif;
+}
+.text10{
+  position: absolute;
+  z-index: 1;
+  margin: 800.95px 0px 0px 979.61px;
+  font-weight: 100;
+  font-size: 45px;
+  font-family: "CoFoSans-Regular", sans-serif;
+}
+.text11{
+  position: absolute;
+  z-index: 1;
+  margin: 800.95px 0px 0px 1450.48px;
+  font-weight: 100;
+  font-size: 45px;
+  font-family: "CoFoSans-Regular", sans-serif;
+}
+.text12{
+  position: absolute;
+  z-index: 1;
+  margin: 1713.95px 0px 0px 30.45px;
+  font-weight: 100;
+  font-size: 45px;
+  font-family: "CoFoSans-Regular", sans-serif;
+}
+.text13{
+  position: absolute;
+  z-index: 1;
+  margin: 1713.95px 0px 0px 508.92px;
+  font-weight: 100;
+  font-size: 45px;
+  font-family: "CoFoSans-Regular", sans-serif;
+}
+.text14{
+  position: absolute;
+  z-index: 1;
+  margin: 1713.95px 0px 0px 979.61px;
+  font-weight: 100;
+  font-size: 45px;
+  font-family: "CoFoSans-Regular", sans-serif;
+}
+.text15{
+  position: absolute;
+  z-index: 1;
+  margin: 1713.95px 0px 0px 1450.48px;
+  font-weight: 100;
+  font-size: 45px;
+  font-family: "CoFoSans-Regular", sans-serif;
+}
+.autor1 {
+  z-index: 1;
+  position: absolute;
+  font-family: "CoFoSans-Regular", sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 17px;
+  line-height: 92.8%;
+  text-align: right;
+  margin: 902.27px 0px 0px 310.7px;
+}
+.autor2 {
+  z-index: 1;
+  position: absolute;
+  font-family: "CoFoSans-Regular", sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 17px;
+  line-height: 92.8%;
+  text-align: right;
+  margin: 902.27px 0px 0px 809.69px;
+}
+.autor3 {
+  z-index: 1;
+  position: absolute;
+  font-family: "CoFoSans-Regular", sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 17px;
+  line-height: 92.8%;
+  text-align: right;
+  margin: 902.27px 0px 0px 1262.61px;
+}
+.autor4 {
+  z-index: 1;
+  position: absolute;
+  font-family: "CoFoSans-Regular", sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 17px;
+  line-height: 92.8%;
+  text-align: right;
+  margin: 902.27px 0px 0px 1748.98px;
+}
+.autor5 {
+  z-index: 1;
+  position: absolute;
+  font-family: "CoFoSans-Regular", sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 17px;
+  line-height: 92.8%;
+  text-align: right;
+  margin: 1820.44px 0px 0px 319.1px;
+}
+.autor6 {
+  z-index: 1;
+  position: absolute;
+  font-family: "CoFoSans-Regular", sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 17px;
+  line-height: 92.8%;
+  text-align: right;
+  margin: 1812.28px 0px 0px 789.43px;
+}
+.autor7 {
+  z-index: 1;
+  position: absolute;
+  font-family: "CoFoSans-Regular", sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 17px;
+  line-height: 92.8%;
+  text-align: right;
+  margin: 1815.27px 0px 0px 1292.23px;
+}
+.autor8 {
+  z-index: 1;
+  position: absolute;
+  font-family: "CoFoSans-Regular", sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 17px;
+  line-height: 92.8%;
+  text-align: right;
+  margin: 1815.27px 0px 0px 1795.72px;
+}
+.oborder {
+  z-index: 1;
+  position: absolute;
+  font-family: "CoFoSans-Regular", sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 17px;
+}
+.or1 img{
+  position: absolute;
+  margin: 956px 0px 0px 30px;
+}
+.or2 img{
+  position: absolute;
+  margin: 956px 0px 0px 502px;
+}
+.or3 img{
+  position: absolute;
+  margin: 956px 0px 0px 974px;
+}
+.or4 img{
+  position: absolute;
+  margin: 956px 0px 0px 1448px;
+}
+.or5 img{
+  position: absolute;
+  margin: 1869px 0px 0px 30px;
+}
+.or6 img{
+  position: absolute;
+  margin: 1869px 0px 0px 502px;
+}
+.or7 img{
+  position: absolute;
+  margin: 1869px 0px 0px 974px;
+}
+.or8 img{
+  position: absolute;
+  margin: 1869px 0px 0px 1448px;
+}
+.dis1 img{
+  position: absolute;
+  margin: 902.44px 0px 0px 30.37px;
+}
+.dis2 img{
+  position: absolute;
+  margin: 902.44px 0px 0px 505.37px;
+}
+.dis3 img{
+  position: absolute;
+  margin: 902.44px 0px 0px 975.37px;
+}
+.dis4 img{
+  position: absolute;
+  margin: 902.44px 0px 0px 1448.37px;
+}
+.dis5 img{
+  position: absolute;
+  margin: 1815px 0px 0px 30.37px;
+}
+.dis6 img{
+  position: absolute;
+  margin: 1815px 0px 0px 505.37px;
+}
+.dis7 img{
+  position: absolute;
+  margin: 1815px 0px 0px 975.37px;
+}
+.dis8 img{
+  position: absolute;
+  margin: 1815px 0px 0px 1448.37px;
+}
+.wow {
+  position: fixed;
+  margin: 412px 0px 0px 581px;
+  display: none;
+}
+.pictu15 img{
+  position: absolute;
+  z-index: -1;
+  margin: 145px 0px 0px 976px;
+}
+.pictu16 img{
+  position: absolute;
+  z-index: -1;
+  margin: 176px 0px 0px 1232px;
+}
+.text16 {
+  z-index: 1;
+  position: absolute;
+  margin: 751.8px 0px 0px 981.66px;
+}
+.text17 {
+  z-index: 1;
+  position: absolute;
+  margin: 867.28px 0px 0px 32.02px;
+  font-weight: 100;
+  font-size: 17px;
+  font-family: "CoFoSans-Regular", sans-serif;
+}
 /*.fut1 {
   position: absolute;
   z-index: 11;
