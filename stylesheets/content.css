@@ -3702,7 +3702,7 @@ border-radius: 0px; /* закругления плашки */
 .text16 {
   z-index: 1;
   position: absolute;
-  margin: 751.8px 0px 0px 981.66px;
+  margin: 727.8px 0px 0px 975.66px;
 }
 .text17 {
   z-index: 1;
@@ -3713,6 +3713,14 @@ border-radius: 0px; /* закругления плашки */
   font-family: "CoFoSans-Regular", sans-serif;
 }
 .alexis {
+  position: absolute;
+  margin: 875px 0px 0px 976px;
+}
+.sansskat {
+  position: absolute;
+  margin: 875px 0px 0px 1291px;
+}
+.skat {
   position: absolute;
   margin: 875px 0px 0px 1606px;
 }
