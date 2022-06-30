@@ -3684,10 +3684,13 @@ border-radius: 0px; /* закругления плашки */
   position: absolute;
   margin: 1815px 0px 0px 1448.37px;
 }
-.wow {
-  position: fixed;
+.wow img{
+  visibility: hidden;
   margin: 412px 0px 0px 581px;
-  display: none;
+  
+}
+.appear img{
+  visibility: visible;
 }
 .pictu15 img{
   position: absolute;
