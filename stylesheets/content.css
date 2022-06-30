@@ -3687,7 +3687,7 @@ border-radius: 0px; /* закругления плашки */
 .wow img{
   visibility: hidden;
   margin: 412px 0px 0px 581px;
-  
+
 }
 .appear img{
   visibility: visible;
@@ -3727,6 +3727,133 @@ border-radius: 0px; /* закругления плашки */
   position: absolute;
   margin: 875px 0px 0px 1606px;
 }
+.w1 {
+  position: absolute;
+  margin: 189.6px 0px 0px 76.13px;
+}
+.w2 {
+  position: absolute;
+  margin: 162.36px 0px 0px 223.94px;
+}
+.w3 {
+  position: absolute;
+  margin: 163.32px 0px 0px 391.04px;
+}
+.w4 {
+  position: absolute;
+  margin: 151.44px 0px 0px 523.64px;
+}
+.w5 {
+  z-index: 7;
+  position: absolute;
+  margin: 161.76px 0px 0px 695.69px;
+}
+.w6 {
+  position: absolute;
+  margin: 161.52px 0px 0px 865.63px;
+}
+.w7 {
+  position: absolute;
+  margin: 307.76px 0px 0px 60.41px;
+}
+.w8 {
+  position: absolute;
+  margin: 308.72px 0px 0px 223.69px;
+}
+.w9 {
+  position: absolute;
+  margin: 333.44px 0px 0px 366.16px;
+}
+.w10 {
+  position: absolute;
+  margin: 307.16px 0px 0px 542.96px;
+}
+.w11 {
+  position: absolute;
+  margin: 303.37px 0px 0px 706.45px;
+}
+.w12 {
+  position: absolute;
+  margin: 335.12px 0px 0px 850.12px;
+}
+.w13 {
+  position: absolute;
+  margin: 453.44px 0px 0px 76.45px;
+}
+.w14 {
+  position: absolute;
+  margin: 477.44px 0px 0px 214.37px;
+}
+.w15 {
+  position: absolute;
+  margin: 451.76px 0px 0px 375px;
+}
+.w16 {
+  position: absolute;
+  margin: 452.12px 0px 0px 549.57px;
+}
+.w17 {
+  position: absolute;
+  margin: 479.24px 0px 0px 696.16px;
+}
+.w18 {
+  position: absolute;
+  margin: 453.44px 0px 0px 868.73px;
+}
+.w19 {
+  position: absolute;
+  margin: 622.64px 0px 0px 67.5px;
+}
+.w20 {
+  position: absolute;
+  margin: 595.76px 0px 0px 226.56px;
+}
+.w21 {
+  position: absolute;
+  margin: 596.6px 0px 0px 394.7px;
+}
+.w22 {
+  position: absolute;
+  margin: 623.48px 0px 0px 524.51px;
+}
+.w23 {
+  position: absolute;
+  margin: 596px 0px 0px 704.29px;
+}
+.w24 {
+  position: absolute;
+  margin: 595.28px 0px 0px 850.59px;
+}
+.w25 {
+  position: absolute;
+  margin: 740.16px 0px 0px 41.42px;
+}
+.w26 {
+  position: absolute;
+  margin: 741.6px 0px 0px 224.84px;
+}
+.w27 {
+  position: absolute;
+  margin: 751.04px 0px 0px 375.59px;
+}
+.w28 {
+  position: absolute;
+  margin: 740.6px 0px 0px 549.57px;
+}
+.w29 {
+  position: absolute;
+  margin: 737.96px 0px 0px 676px;
+}
+.w30 {
+  position: absolute;
+  margin: 766.04px 0px 0px 853.05px;
+}
+
+
+
+
+
+
 /*.fut1 {
   position: absolute;
   z-index: 11;

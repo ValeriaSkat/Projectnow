@@ -3159,6 +3159,93 @@ $(".pr334").css("transition", "all 0.5s ease-in-out");
 $(function() {
 $(".w1").draggable();
 });
+$(function() {
+$(".w2").draggable();
+});
+$(function() {
+$(".w3").draggable();
+});
+$(function() {
+$(".w4").draggable();
+});
+$(function() {
+$(".w5").draggable();
+});
+$(function() {
+$(".w6").draggable();
+});
+$(function() {
+$(".w7").draggable();
+});
+$(function() {
+$(".w8").draggable();
+});
+$(function() {
+$(".w9").draggable();
+});
+$(function() {
+$(".w10").draggable();
+});
+$(function() {
+$(".w11").draggable();
+});
+$(function() {
+$(".w12").draggable();
+});
+$(function() {
+$(".w13").draggable();
+});
+$(function() {
+$(".w14").draggable();
+});
+$(function() {
+$(".w15").draggable();
+});
+$(function() {
+$(".w16").draggable();
+});
+$(function() {
+$(".w17").draggable();
+});
+$(function() {
+$(".w18").draggable();
+});
+$(function() {
+$(".w19").draggable();
+});
+$(function() {
+$(".w20").draggable();
+});
+$(function() {
+$(".w21").draggable();
+});
+$(function() {
+$(".w22").draggable();
+});
+$(function() {
+$(".w23").draggable();
+});
+$(function() {
+$(".w24").draggable();
+});
+$(function() {
+$(".w25").draggable();
+});
+$(function() {
+$(".w26").draggable();
+});
+$(function() {
+$(".w27").draggable();
+});
+$(function() {
+$(".w28").draggable();
+});
+$(function() {
+$(".w29").draggable();
+});
+$(function() {
+$(".w30").draggable();
+});
 
 
 
